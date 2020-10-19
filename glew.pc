@@ -1,6 +1,6 @@
-prefix=/usr/local
+prefix=/home/matth/Desktop/Software-Dev/C-Dev/Matts-Game-Engine/_install
 exec_prefix=${prefix}
-libdir=/usr/local/lib
+libdir=/home/matth/Desktop/Software-Dev/C-Dev/Matts-Game-Engine/_install/lib
 includedir=${prefix}/include
 
 Name: glew
